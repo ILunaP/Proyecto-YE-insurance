@@ -1,4 +1,4 @@
-IDPOL,INIVIG,A�o Inivi,Mes inivig,Tipo,Sexo_Titular,Sexo_Adjunto,ECON_Titular,ECON_Adjunto,Status_Titular,Status_Adjunto,PROD,SAF,SAD,CREC,%CREC,COB,PAG,DIV,MON,SIT,F_GAR
+IDPOL,INIVIG,A�o Inivi,Mes inivi,Tipo,Sexo_Titular,Sexo_Adjunto,ECON_Titular,ECON_Adjunto,Status_Titular,Status_Adjunto,PROD,SAF,SAD,CREC,%CREC,COB,PAG,DIV,MON,SIT,F_GAR
 1,2021-04-01 00:00:00,2021,abril,�ltimo Superviviente,F,M,37,37,NFND,NFND,DM," $855,770.00 ",�ltima,FIJO,0.016,15.0,13,SI,MXN,Normal,
 13,2021-04-01 00:00:00,2021,abril,Individual,F,F,34,34,NFND,NFND,T," $97,130.00 ",,,,10.0,3,,MXN,Normal,
 12,2021-04-01 00:00:00,2022,abril,Individual,M,F,38,38,NFND,FD,T," $738,500.00 ",,,,15.0,1,,MXN,Normal,
